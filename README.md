@@ -1,1 +1,1 @@
-# App_Frontend
+set up environment in :https://reactnative.dev/docs/environment-setup
